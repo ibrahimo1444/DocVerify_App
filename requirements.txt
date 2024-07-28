@@ -1,0 +1,16 @@
+Software Requirements
+Python:
+
+Python 3.6 or higher
+Python Packages:
+
+-streamlit
+-opencv-python-headless
+-pytesseract
+-numpy
+-scikit-learn
+-Pillow
+-PyMuPDF
+
+You can install all the required packages using the following command:
+pip install streamlit opencv-python-headless pytesseract numpy scikit-learn Pillow PyMuPDF
