@@ -13,15 +13,15 @@ DocVerify ensures document authenticity by comparing them to original versions u
 
 ## How It Works
 
-Upload Documents: Users upload the original document and the document to compare.<br/>
-Text Extraction: The app uses Tesseract OCR to extract text from both documents.<br/>
-Text Comparison: Extracted texts are compared using TF-IDF and Cosine Similarity to provide a similarity score.<br/>
-Results and Feedback: The app displays the extracted texts, similarity score, and additional feedback on the potential discrepancies.
+1. Upload Documents: Users upload the original document and the document to compare.<br/>
+2. Text Extraction: The app uses Tesseract OCR to extract text from both documents.<br/>
+3. Text Comparison: Extracted texts are compared using TF-IDF and Cosine Similarity to provide a similarity score.<br/>
+4. Results and Feedback: The app displays the extracted texts, similarity score, and additional feedback on the potential discrepancies.
 
 ## Use Cases
 
-Legal Document Verification: Ensure that contracts, agreements, and other legal documents have not been altered.<br/>
-Academic Integrity: Check for authenticity of certificates and transcripts.<br/>
-Business Compliance: Verify the originality of business documents such as invoices and receipts.<br/>
+* Legal Document Verification: Ensure that contracts, agreements, and other legal documents have not been altered.<br/>
+* Academic Integrity: Check for authenticity of certificates and transcripts.<br/>
+* Business Compliance: Verify the originality of business documents such as invoices and receipts.<br/>
 
 The Document Verifier App is a practical tool for anyone needing to verify the authenticity and integrity of important documents quickly and accurately.
